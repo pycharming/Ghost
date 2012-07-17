@@ -1,5 +1,6 @@
 *.pyc
 env
+.env
 build
 __pycache__
 Ghost.py.egg-info
